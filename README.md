@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Joshua (Josue Philco)
+<h1 align="center">👋 Hi, I'm Joshua (Josue Philco)</h1>
+
+<p align="center">
+  <img src="assets/Lofi boy.gif" alt="Lofi Boy" width="400"/>
+</p>
 
 🎓 I'm a 21-year-old Computer Science student with a passion for building, learning, and solving real-world problems through code.
 
