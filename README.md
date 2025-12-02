@@ -33,6 +33,8 @@
 
 If you'd like to collaborate or just say hi, feel free to reach out via GitHub!
 
+🌐 [My portfolio](https://portfolio-khaki-gamma-90.vercel.app/)
+
 ---
 
 ⭐ Thanks for stopping by! I'm always up for learning something new or collaborating on cool projects.
